@@ -1,0 +1,24 @@
+{
+    "version": "0.1.9",
+    "architecture": {
+        "32bit": {
+            "url": "http://github.com/obay/tfren/releases/download/v0.1.9/tfren_0.1.9_Windows_i386.tar.gz",
+            "bin": [
+                "tfren.exe"
+            ],
+            "hash": "f66add72c10ecb5ed23d9ea5c421ccb949b304f4bdc0185c14e49c0f05090544"
+        }
+    },
+    "homepage": "https://github.com/obay/tfren",
+    "description": "A tool to rename Terraform files accodrind to the resource type and name.",
+    "persist": [
+        "data",
+        "config.toml"
+    ],
+    "pre_install": [
+        "Write-Host 'Running preinstall command'"
+    ],
+    "post_install": [
+        "Write-Host 'Running postinstall command'"
+    ]
+}
