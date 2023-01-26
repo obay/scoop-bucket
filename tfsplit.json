@@ -1,19 +1,19 @@
 {
-    "version": "2.0.7",
+    "version": "0.0.1",
     "architecture": {
         "32bit": {
-            "url": "http://github.com/obay/tfsplit/releases/download/v2.0.7/tfsplit_2.0.7_windows_386.tar.gz",
+            "url": "http://github.com/obay/tfsplit/releases/download/v0.0.1/tfsplit_0.0.1_windows_386.tar.gz",
             "bin": [
                 "tfsplit.exe"
             ],
-            "hash": "bd6c5082570127cb9f28d63c56882f1c3fb7b7e1eed6a75234b8f879a92bf641"
+            "hash": "99bdbdd13d3105b0ae5d7d1a81855d41d70f85448b349ab74358802f53646ad1"
         },
         "64bit": {
-            "url": "http://github.com/obay/tfsplit/releases/download/v2.0.7/tfsplit_2.0.7_windows_amd64.tar.gz",
+            "url": "http://github.com/obay/tfsplit/releases/download/v0.0.1/tfsplit_0.0.1_windows_amd64.tar.gz",
             "bin": [
                 "tfsplit.exe"
             ],
-            "hash": "4d72bad0a92f51c8770cceec2e22000cfd0f91bbf428e0eac034688afeaf0d41"
+            "hash": "99f1aec0a840233f1a216c99a5c7e5be1c99cf9b334accd5a9bb4a826120d4ee"
         }
     },
     "homepage": "https://github.com/obay/tfsplit",
