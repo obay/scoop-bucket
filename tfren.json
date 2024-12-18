@@ -1,26 +1,26 @@
 {
-    "version": "0.6.0",
+    "version": "0.7.0",
     "architecture": {
         "32bit": {
-            "url": "http://github.com/obay/tfren/releases/download/v0.6.0/tfren_Windows_i386.zip",
+            "url": "http://github.com/obay/tfren/releases/download/v0.7.0/tfren_Windows_i386.zip",
             "bin": [
                 "tfren.exe"
             ],
-            "hash": "a932c9b671f406cbf8a302d408a74fed6e881cac2294ae325776f70c11ceb39e"
+            "hash": "b3de02fe1929c6db4068cd951d3b087fe567b1a0b04bca8ae30ea826f2bce23e"
         },
         "64bit": {
-            "url": "http://github.com/obay/tfren/releases/download/v0.6.0/tfren_Windows_x86_64.zip",
+            "url": "http://github.com/obay/tfren/releases/download/v0.7.0/tfren_Windows_x86_64.zip",
             "bin": [
                 "tfren.exe"
             ],
-            "hash": "4bbd04cce47f36b9ebcfd53e7f311f7af78443ec4bfb94fe2ebce470b1f1447f"
+            "hash": "9be1d46cb1dd0f59a989a9bd5ebffa6dd26ce1d2b937bd469d0e2a41e1adb0b4"
         },
         "arm64": {
-            "url": "http://github.com/obay/tfren/releases/download/v0.6.0/tfren_Windows_arm64.zip",
+            "url": "http://github.com/obay/tfren/releases/download/v0.7.0/tfren_Windows_arm64.zip",
             "bin": [
                 "tfren.exe"
             ],
-            "hash": "535a38237224c0557dc511c2d287b136562f3c859533887fa084bac7d67cfcac"
+            "hash": "d55a058bc5417a6de7d9601a56a9d0c2a6adbf376f1dbefbf69bcc3830fef88d"
         }
     },
     "homepage": "https://github.com/obay/tfren",
