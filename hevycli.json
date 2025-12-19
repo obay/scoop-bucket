@@ -1,19 +1,19 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/obay/hevycli/releases/download/v0.2.0/hevycli_0.2.0_windows_386.zip",
+            "url": "https://github.com/obay/hevycli/releases/download/v0.2.1/hevycli_0.2.1_windows_386.zip",
             "bin": [
                 "hevycli.exe"
             ],
-            "hash": "c31a131e6f76790ed9b0b3bc45472db915a7aa2decb0a13bb8e944e2320523df"
+            "hash": "dfb9a03845ebd3d4d11677b2fb206ec6e0e2d5a2eb7dc60141a6adb96abd08c0"
         },
         "64bit": {
-            "url": "https://github.com/obay/hevycli/releases/download/v0.2.0/hevycli_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/obay/hevycli/releases/download/v0.2.1/hevycli_0.2.1_windows_amd64.zip",
             "bin": [
                 "hevycli.exe"
             ],
-            "hash": "0f43dc3e7bdfbac4e5665b81965e4d03c2e5090de4ad7ee3f08959c92467b758"
+            "hash": "11c6fa60bcb636f761c18326a38703c9ea05a00fbe6f7cc05a65dce862252886"
         }
     },
     "homepage": "https://github.com/obay/hevycli",
