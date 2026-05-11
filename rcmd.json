@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/obay/rcmd/releases/download/v0.2.0/rcmd_0.2.0_windows_amd64.zip",
+            "bin": [
+                "rcmd.exe"
+            ],
+            "hash": "6b6367f9a8646017145da3680025298527bcdabd70e543c0efa3cea016b37efa"
+        },
+        "arm64": {
+            "url": "https://github.com/obay/rcmd/releases/download/v0.2.0/rcmd_0.2.0_windows_arm64.zip",
+            "bin": [
+                "rcmd.exe"
+            ],
+            "hash": "27edd06b1009d4f846f9e9c7b30f81bdc3f73f35e262f2c8133751ce2c564d57"
+        }
+    },
+    "homepage": "https://github.com/obay/rcmd",
+    "license": "MIT",
+    "description": "rcmd operator CLI"
+}
