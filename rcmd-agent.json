@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/obay/rcmd/releases/download/v0.2.0/rcmd-agent_0.2.0_windows_amd64.zip",
+            "bin": [
+                "rcmd-agent.exe"
+            ],
+            "hash": "1e3e798b30a6c7b8e8c7cafd6ac1939ad661f9159b90e2c26acb224e8f905d6f"
+        }
+    },
+    "homepage": "https://github.com/obay/rcmd",
+    "license": "MIT",
+    "description": "rcmd remote-execution agent (Windows service)"
+}
