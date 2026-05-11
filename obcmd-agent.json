@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/obay/obcmd/releases/download/v0.1.0/obcmd-agent_0.1.0_windows_amd64.zip",
+            "bin": [
+                "obcmd-agent.exe"
+            ],
+            "hash": "63f87ab5dd886189bf0278057a8dfd9233d7c1b08224a18f52248a5bfac54cbe"
+        }
+    },
+    "homepage": "https://github.com/obay/obcmd",
+    "license": "MIT",
+    "description": "obcmd remote-execution agent (Windows service)"
+}
