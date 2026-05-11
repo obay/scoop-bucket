@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/obay/obcmd/releases/download/v0.1.0/obcmd-agent_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/obay/obcmd/releases/download/v0.1.1/obcmd-agent_0.1.1_windows_amd64.zip",
             "bin": [
                 "obcmd-agent.exe"
             ],
-            "hash": "63f87ab5dd886189bf0278057a8dfd9233d7c1b08224a18f52248a5bfac54cbe"
+            "hash": "4ca885e160d1f60e72ac34ba786bc671652c013927f6147192de73e11e1def25"
         }
     },
     "homepage": "https://github.com/obay/obcmd",
