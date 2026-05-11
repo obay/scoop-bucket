@@ -1,19 +1,19 @@
 {
-    "version": "0.2.5",
+    "version": "0.2.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/obay/rcmd/releases/download/v0.2.5/rcmd_0.2.5_windows_amd64.zip",
+            "url": "https://github.com/obay/rcmd/releases/download/v0.2.6/rcmd_0.2.6_windows_amd64.zip",
             "bin": [
                 "rcmd.exe"
             ],
-            "hash": "528800460e27eb742bb67c775b83724e3e35b5cb644c8877804843715a2f07b5"
+            "hash": "222930c529ed292325cac37da1880f77dadb18eb163c8b5d94ab23d9391898dd"
         },
         "arm64": {
-            "url": "https://github.com/obay/rcmd/releases/download/v0.2.5/rcmd_0.2.5_windows_arm64.zip",
+            "url": "https://github.com/obay/rcmd/releases/download/v0.2.6/rcmd_0.2.6_windows_arm64.zip",
             "bin": [
                 "rcmd.exe"
             ],
-            "hash": "15ef997a72a2bae85ccea923f52eb1bd3c37c5bce5bb9d1cd0252e4f2b518ea3"
+            "hash": "53a127b48556b555bcc86c1eba730db97c15029bba38b4ef0a1f36859ca475a4"
         }
     },
     "homepage": "https://github.com/obay/rcmd",
