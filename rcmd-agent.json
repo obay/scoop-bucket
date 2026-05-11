@@ -1,12 +1,12 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/obay/rcmd/releases/download/v0.2.0/rcmd-agent_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/obay/rcmd/releases/download/v0.2.1/rcmd-agent_0.2.1_windows_amd64.zip",
             "bin": [
                 "rcmd-agent.exe"
             ],
-            "hash": "1e3e798b30a6c7b8e8c7cafd6ac1939ad661f9159b90e2c26acb224e8f905d6f"
+            "hash": "581e905d236e428de2c9cf6b0f53633af3ad181bf0268762ae9570455b702340"
         }
     },
     "homepage": "https://github.com/obay/rcmd",
