@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/obay/obcmd/releases/download/v0.1.0/obcmd_0.1.0_windows_amd64.zip",
+            "bin": [
+                "obcmd.exe"
+            ],
+            "hash": "4e05d8d9203a6430df29c2d830febab5818ed7bef305527e0add034041b242a3"
+        },
+        "arm64": {
+            "url": "https://github.com/obay/obcmd/releases/download/v0.1.0/obcmd_0.1.0_windows_arm64.zip",
+            "bin": [
+                "obcmd.exe"
+            ],
+            "hash": "a2d4369f900b8fcb1c3964ef57e9fff74aceffd15d74d21c4b5d9599de95fa2c"
+        }
+    },
+    "homepage": "https://github.com/obay/obcmd",
+    "license": "MIT",
+    "description": "obcmd operator CLI"
+}
