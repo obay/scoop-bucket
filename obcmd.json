@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/obay/obcmd/releases/download/v0.1.0/obcmd_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/obay/obcmd/releases/download/v0.1.1/obcmd_0.1.1_windows_amd64.zip",
             "bin": [
                 "obcmd.exe"
             ],
-            "hash": "4e05d8d9203a6430df29c2d830febab5818ed7bef305527e0add034041b242a3"
+            "hash": "527f9e32cacd77a3a06e853c6118fad1ef0fe9203eaccc211aaf15d193bfd19e"
         },
         "arm64": {
-            "url": "https://github.com/obay/obcmd/releases/download/v0.1.0/obcmd_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/obay/obcmd/releases/download/v0.1.1/obcmd_0.1.1_windows_arm64.zip",
             "bin": [
                 "obcmd.exe"
             ],
-            "hash": "a2d4369f900b8fcb1c3964ef57e9fff74aceffd15d74d21c4b5d9599de95fa2c"
+            "hash": "9b668c75afb93f2bf9b886ddfda02e5c623818386d3441271de0c568045237b4"
         }
     },
     "homepage": "https://github.com/obay/obcmd",
